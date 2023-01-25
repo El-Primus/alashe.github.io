@@ -1,2 +1,2 @@
 This is my Portfolio
-It is encapsulation of some of my works
+It is an encapsulation of some of my works
